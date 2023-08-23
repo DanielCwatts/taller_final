@@ -31,3 +31,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Se ignora archivo de bienvenida
+Bienvenidos
