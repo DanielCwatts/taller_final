@@ -1,2 +1,3 @@
 Comentario 1, iniciando en la rama WB, nuevo cambio en WB
 Se le agrega la funcion de apoyar moralmente a mis compañeros desde  dev....
+Desde feature : agregamos la habilidad de estresas a mis compañeros , utilizando el motodo de  presion contra el tiempo.
